@@ -6,83 +6,83 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 220 20% 10%;
+    --background: 300 10% 98%;
+    --foreground: 280 30% 10%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 220 20% 10%;
+    --card: 300 10% 100%;
+    --card-foreground: 280 30% 10%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 220 20% 10%;
+    --popover: 300 10% 100%;
+    --popover-foreground: 280 30% 10%;
 
-    --primary: 174 72% 40%;
+    --primary: 320 80% 55%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 220 14% 96%;
-    --secondary-foreground: 220 20% 10%;
+    --secondary: 280 60% 95%;
+    --secondary-foreground: 280 30% 10%;
 
-    --muted: 220 14% 96%;
-    --muted-foreground: 220 10% 46%;
+    --muted: 280 20% 94%;
+    --muted-foreground: 280 15% 45%;
 
-    --accent: 174 72% 40%;
+    --accent: 270 70% 60%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 220 14% 90%;
-    --input: 220 14% 90%;
-    --ring: 174 72% 40%;
+    --border: 280 20% 88%;
+    --input: 280 20% 88%;
+    --ring: 320 80% 55%;
 
     --radius: 0.75rem;
 
     /* Chat-specific tokens */
-    --chat-bg: 220 20% 98%;
-    --chat-user-bg: 174 72% 40%;
+    --chat-bg: 280 15% 96%;
+    --chat-user-bg: 320 80% 55%;
     --chat-user-fg: 0 0% 100%;
-    --chat-ai-bg: 220 14% 96%;
-    --chat-ai-fg: 220 20% 10%;
+    --chat-ai-bg: 280 60% 95%;
+    --chat-ai-fg: 280 30% 10%;
     --chat-input-bg: 0 0% 100%;
-    --chat-sidebar: 220 20% 96%;
+    --chat-sidebar: 280 20% 94%;
   }
 
   .dark {
-    --background: 220 20% 8%;
-    --foreground: 220 14% 96%;
+    --background: 280 30% 4%;
+    --foreground: 280 10% 95%;
 
-    --card: 220 20% 12%;
-    --card-foreground: 220 14% 96%;
+    --card: 280 30% 8%;
+    --card-foreground: 280 10% 95%;
 
-    --popover: 220 20% 12%;
-    --popover-foreground: 220 14% 96%;
+    --popover: 280 30% 8%;
+    --popover-foreground: 280 10% 95%;
 
-    --primary: 174 72% 50%;
-    --primary-foreground: 220 20% 8%;
+    --primary: 320 85% 60%;
+    --primary-foreground: 280 30% 4%;
 
-    --secondary: 220 20% 16%;
-    --secondary-foreground: 220 14% 96%;
+    --secondary: 270 40% 15%;
+    --secondary-foreground: 280 10% 95%;
 
-    --muted: 220 20% 16%;
-    --muted-foreground: 220 14% 60%;
+    --muted: 280 30% 12%;
+    --muted-foreground: 280 15% 60%;
 
-    --accent: 174 72% 50%;
-    --accent-foreground: 220 20% 8%;
+    --accent: 270 70% 55%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62% 50%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 220 20% 18%;
-    --input: 220 20% 18%;
-    --ring: 174 72% 50%;
+    --border: 280 30% 15%;
+    --input: 280 30% 15%;
+    --ring: 320 85% 60%;
 
     /* Chat-specific tokens - dark mode */
-    --chat-bg: 220 20% 8%;
-    --chat-user-bg: 174 72% 45%;
+    --chat-bg: 280 30% 4%;
+    --chat-user-bg: 320 85% 55%;
     --chat-user-fg: 0 0% 100%;
-    --chat-ai-bg: 220 20% 14%;
-    --chat-ai-fg: 220 14% 96%;
-    --chat-input-bg: 220 20% 12%;
-    --chat-sidebar: 220 20% 6%;
+    --chat-ai-bg: 280 30% 10%;
+    --chat-ai-fg: 280 10% 95%;
+    --chat-input-bg: 280 30% 8%;
+    --chat-sidebar: 280 30% 3%;
   }
 }
 
