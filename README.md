@@ -4,6 +4,8 @@
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
+live demo link: https://ai-assistant6660.lovable.app
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
